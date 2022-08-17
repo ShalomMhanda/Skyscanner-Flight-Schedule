@@ -5,9 +5,9 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+# Flight Schedule Web App
 
-[_Add a brief description of your project here._]
+A web application that uses backpack to allow a user to pick a reservation date for a flight.
 
 ## npm script commands
 
